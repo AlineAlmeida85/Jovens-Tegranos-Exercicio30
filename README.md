@@ -53,7 +53,7 @@
 
 ### GitHub AlineAlmeida85
 
-### Link: [Projeto]()
+### Link: [Projeto](https://alinealmeida85.github.io/Jovens-Tegranos-Exercicio30/)
 
 # ✅ Pré-requisitos 👌
 
@@ -76,7 +76,7 @@
 
 ### Não Possui
 
-#### Espero que te agrade! ❤️
+#### Espero que agrade! ❤️
 
 
 
